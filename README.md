@@ -1,38 +1,26 @@
-<h1>Hello there, I'm Ahmed! <br/><a href="https://github.com/ahmedbakr11">Engineering Student</a></h1>
+# 👋 Hey there, I’m Scrap  
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+💻 **Security Engineer** | 🕵️‍♂️ **Log Whisperer** | 🔍 **Threat Hunter**  
 
-- <b>Sample1</b>
-  - [sample1.link](https://github.com/ahmedbakr11/sample1)
-- <b>sample2</b>
-  - [sample2.link](https://github.com/ahmedbakr11/sample1) 
-- <b>sample3</b>
-  - [sample3.link](https://github.com/ahmedbakr11/sample1)
-  
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🧭 About Me  
+I navigate the grey waters between **attack** and **defense**, breaking things just enough to understand how to fix them.  
+My lab is a mix of:  
+- 🐧 Linux terminals  
+- 📜 Endless logs  
+- 🕵️ Reverse engineering playgrounds  
+- ☕ Unhealthy amounts of coffee  
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## 🛠 My Current Missions  
+- **Apache Web-Server Log Analysis** → Squeezing secrets out of `access.log`  
+- **Splunk SIEM Dashboards** → Turning noise into clarity  
+- **Network Security Assessments** → Mapping attack surfaces before the bad guys do  
+- **Keylogger Development (Lab)** → Learning the enemy’s tricks  
+- **Keylogger Behavioral Analysis** → Watching malware squirm in a sandbox  
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Arsenal  
